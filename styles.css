@@ -1,0 +1,59 @@
+body {
+    font-family: 'Lato', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+/* Head side css */
+
+.first_portion {
+
+    padding: 30px 290px 0px 240px;
+    background: #E554731A;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.first_portion .head-flower {
+    padding: 20px 20px 0px ;
+    width: 635px;
+    height: 800px;
+}
+
+.intro-of-text {
+    color: #272727;
+    font-size: 80px;
+    font-family: Lato;
+    font-weight: 900;
+    word-wrap: break-word;
+
+}
+
+.intro-para {
+    width: auto;
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 19px;
+    font-weight: 400;
+    line-height: 30px;
+    word-wrap: break-word;
+    max-width: 668px;
+
+}
+
+.Shop-now {
+    color: white;
+    background-color: #E55473;
+    border-radius: 5px;
+    border: 0;
+    font-size: 20px;
+    font-weight: 540;
+    word-wrap: break-word;
+    text-align: center;
+    padding: 20px 43px ;
+    margin-top: 32px;
+    /* margin-bottom: 147px; */
+
+}
+
+/* Main Featured flower */
+
