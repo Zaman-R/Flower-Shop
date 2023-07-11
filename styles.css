@@ -273,3 +273,41 @@ body {
 
 /* Footer */
 
+.end {
+    background-color: #111010;
+    margin-top: 50px;
+    text-align: center;
+}
+
+#Flower {
+    color: #E55473;
+    font-size: 48px;
+    font-weight: 800;
+    word-wrap: break-word;
+}
+
+.foot-t {
+    color: white;
+    font-size: 48px;
+    font-weight: 800;
+    padding:128px 800px 24px 820px ;
+    word-wrap: break-word;
+}
+
+.foot-description {
+    color: rgba(255, 255, 255, 0.90);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    max-width: 600px;
+    padding:0px 649px 32px 648px ;
+    word-wrap: break-word;
+}
+
+.foot-copyright {
+    color: rgba(255, 255, 255, 0.40);
+    font-size: 16px;
+    font-weight: 400;
+    word-wrap: break-word;
+    padding: 0px 0px 100px 0px ;
+}
